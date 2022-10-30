@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## I. Available Scripts
 
+```
+Note: Please create .env file at root folder, then copy content from .env.example
+```
+
 In the project directory, you can run:
 
 ```
