@@ -37,8 +37,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## III. Test Data
 ```
-Username: aleast 1 character
-Password: aleast 1 character
+Username: atleast 1 character
+Password: atleast 1 character
 ```
 
 ## IV. Build Enveronment
