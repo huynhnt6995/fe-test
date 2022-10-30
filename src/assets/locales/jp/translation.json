@@ -1,0 +1,52 @@
+{
+  "app": "Helthy",
+  
+  "login": {
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "login_page": "ログインページ",
+    "login": "ログインする"
+  },
+  "menu": {
+    "memo": "自分の記録",
+    "challenge": "チャレンジ",
+    "info": "お知らせ",
+    "chart_weight": "体重グラフ",
+    "target": "目標",
+    "selected_source": "選択中のコース",
+    "column_list": "コラム一覧",
+    "setting": "設定"
+  },
+  "footer": {
+    "registration": "会員登録",
+    "operation": "運営会社",
+    "term": "利用規約",
+    "personal": "個人情報の取扱について",
+    "special": "特定商取引法に基づく表記",
+    "inquiry": "お問い合わせ"
+  },
+  "column": {
+    "load_more": "コラムをもっと見る"
+  },
+  "top": {
+    "morning": "Morning",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "snack": "Snack",
+    "load_more": "記録をもっと見る"
+  },
+  "record": {
+    "body_record_en": "BODY RECORD",
+    "exercise_en": "MY EXERCISE",
+    "diary_en": "MY DIARY",
+    "body_record": "自分のカラダの記録",
+    "exercise": "自分の運動の記録",
+    "diary": "自分の日記",
+    "my_diary": "MY DIARY",
+    "load_more": "自分の日記をもっと見る",
+    "month": "月",
+    "day": "日",
+    "week": "週",
+    "year": "年"
+  }
+}

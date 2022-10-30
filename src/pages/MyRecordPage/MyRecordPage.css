@@ -1,0 +1,17 @@
+.record-page .list-user-exercise::-webkit-scrollbar {
+  width: .375rem;
+}
+
+.record-page .list-user-exercise::-webkit-scrollbar-track {
+  background: #777777;
+}
+
+.record-page .list-user-exercise::-webkit-scrollbar-thumb {
+  
+  background: #FFCC21;
+  border-radius: .1875rem;
+}
+
+.record-page .list-user-exercise:-webkit-scrollbar-thumb:hover {
+  background: #FFCC21;
+}

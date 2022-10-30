@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Inter';
+  src: local('Inter'), url(./assets/fonts/Inter/static/Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Hiragino Kaku Gothic Pro";
+  src: local("Noto_Sans_JP"), url(./assets/fonts/Noto_Sans_JP/NotoSansJP-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "Hiragino Kaku Gothic Pro";
+  src: local("Noto_Sans_JP"), url(./assets/fonts/Noto_Sans_JP/NotoSansJP-Light.otf) format('opentype');
+  font-weight: 300;
+}
+
+body {
+  font-family: "Hiragino Kaku Gothic Pro";
+  font-weight: 300;
+}
+
+.word-space-full {
+  word-spacing: 9999px;
+}
+
+.flex-1_2 {
+  flex: 1.2;
+}
